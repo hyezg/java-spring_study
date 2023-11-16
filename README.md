@@ -12,7 +12,7 @@
  
   <tr>
     <td rowspan="3" align="3">23/09/26 ~ 23/10/02</td>
-    <td rowspan="3" align="center">123장</td>
+    <td rowspan="3" align="center">자바의 정석 : 1~4장 </td>
     <td><a href="https://www.notion.so/inqq/9-25-10-1-ch01-04-e960b1c5facd4867821f04ac79a2253f?pvs=4/">포스트</a></td>
     <td><a href="https://www.notion.so/inqq/10-3-10-9-ch05-08-cabc34f9a6854ad7a2f22de1e84b5e19?pvs=4#44120e6c73b84762872616b9094c3d3c">퀴즈</a></td>
     <td>나현</td>
@@ -36,7 +36,7 @@
 
   <tr>
     <td rowspan="3" align="3">23/10/03 ~ 23/10/09</td>
-    <td rowspan="3" align="center">123장</td>
+    <td rowspan="3" align="center">자바의 정석 : 5~8장</td>
     <td><a href="https://www.notion.so/inqq/9-25-10-1-ch01-04-e960b1c5facd4867821f04ac79a2253f?pvs=4/">포스트</a></td>
      <td><a href="https://www.notion.so/inqq/10-3-10-9-ch05-08-cabc34f9a6854ad7a2f22de1e84b5e19?pvs=4#44120e6c73b84762872616b9094c3d3c">퀴즈</a></td>
     <td>혜정</td>
