@@ -5,6 +5,7 @@
     <th>날짜</th>
     <th>과제</th>
     <th>포스트</th>
+    <th>퀴즈</th>
     <th>작성자</th>
     <th>코테 과제</th>
   </tr>
@@ -13,6 +14,7 @@
     <td rowspan="3" align="3">23/09/25 ~ 23/10/01</td>
     <td rowspan="3" align="center">123장</td>
     <td><a href="https://www.notion.so/inqq/9-25-10-1-ch01-04-e960b1c5facd4867821f04ac79a2253f?pvs=4/">포스트</a></td>
+    <td><a href="https://www.notion.so/inqq/10-3-10-9-ch05-08-cabc34f9a6854ad7a2f22de1e84b5e19?pvs=4#44120e6c73b84762872616b9094c3d3c">퀴즈</a></td>
     <td>나현</td>
     <td>✅</td>
   </tr>
