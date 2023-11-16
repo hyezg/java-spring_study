@@ -17,14 +17,16 @@
     <td>✅</td>
   </tr>
   <tr>
-    <td>zzzzzz1</td>
-     <td><a href="https://www.notion.so/inqq/9-25-10-1-ch01-04-e960b1c5facd4867821f04ac79a2253f?pvs=4/">나현</a></td>
+    <td><a href="https://www.notion.so/inqq/9-25-10-1-ch01-04-e960b1c5facd4867821f04ac79a2253f?pvs=4/">포스트</a></td>
+    <td>혜정</td>
     <td>✅</td>
   </tr>
+  </tr>
    <tr>
-     <td>zzzzzz1</td>
-     <td><a href="https://github.com/hyezg/javastudy/blob/861bf940663566cdf4d0d6e2201c781baab15bce/book/week02_%EC%8B%A0.md">서영</a></td>
+    <td><a href="https://www.notion.so/inqq/9-25-10-1-ch01-04-e960b1c5facd4867821f04ac79a2253f?pvs=4/">포스트</a></td>
+    <td>혜정</td>
     <td>✅</td>
+  </tr>
   </tr>
 //
   <tr>
