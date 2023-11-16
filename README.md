@@ -2,8 +2,8 @@
 <table border="1">
 <tbody>
   <tr>
-    <td>asdf</td>
-    <td>asdfasdf</td>
+    <td>날짜</td>
+    <td>이름</td>
   </tr>
   <tr>
     <td>asd</td>
