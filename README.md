@@ -1,13 +1,12 @@
 # java-spring_study
-<table border="1">
+<table>
 <tbody>
   <tr>
-    <td>날짜</td>
-    <td>과제</td>
-    <td>포스트</td>
-    <td>작성자</td>
-    <td>코테 과제</td>
-    
+    <th>날짜</th>
+    <th>과제</th>
+    <th>포스트</th>
+    <th>작성자</th>
+    <th>코테 과제</th>
   </tr>
   <tr>
     <td rowspan="3" align="3">2023/10</td>
